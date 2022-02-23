@@ -1,12 +1,6 @@
-# Practice 02 - Buyer Persona 📚
+# Practice 05 - User Interface 📚
 
-## Results
-
-My buyer persona:
-
-![](./images/buyerPersona.png)
-
-Also you can [download](./buyerPersona.pdf) my buyer persona as PDF file.
+Coming soon
 
 ## Credits:
 

@@ -2,7 +2,7 @@
 
 ## Results
 
-You can follow this [link](https://miro.com/app/board/uXjVOK2bInY=/?invite_link_id=705545771170) to see my target audience. 👀
+You can follow this [link](https://miro.com/app/board/uXjVOK2bInY=/?invite_link_id=705545771170) to see target audience template with my results. 👀
 
 ## Credits:
 

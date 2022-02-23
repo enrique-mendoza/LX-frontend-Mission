@@ -1,6 +1,6 @@
 # Practice 04 - Wireframes 📚
 
-Remember that you can [download](./practice04-wireframes.bmpr) my wireframes from Balsamic.
+Remember that you can [download](./practice04-wireframes.bmpr) my wireframes as Balsamic file.
 
 ## Screenshots
 

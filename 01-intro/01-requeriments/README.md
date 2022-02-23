@@ -1,6 +1,6 @@
 # Practice 01 - Requeriments 📚
 
-You can [download](./requeriments.doc) my requeriments document to see my results.
+You can [download](./requeriments.doc) requeriments document template with my results.
 
 ## Credits:
 
