@@ -6,7 +6,7 @@
 
 ## Table of contents
 
-1. [FrontEnd Programming](./01-intro/).
+1. [FrontEnd Programming](./01-intro/)
 2. [HTML](./02-html/)
 3. [CSS](./03-css/)
 4. [JavaScript](./04-js/)
