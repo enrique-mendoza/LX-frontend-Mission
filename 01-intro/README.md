@@ -17,7 +17,7 @@
 4. [Wireframes](./04-wireframes/)
 5. [User Interfaces](./05-ui/)
 
-And i'm going to work with following case:
+I'm going to work with following case:
 
 <table>
   <tbody>
@@ -37,7 +37,7 @@ And i'm going to work with following case:
           <li>El administrador actualiza el proceso de la demanda y agrega comentarios en cada paso del proceso.</li>
           <li>Al usuario le llegan correos de notificación para saber el avance de su proceso.</li>
           <li>La página debe de ser responsive para poderla ver desde el celular.</li>
-          <li>La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.</li>
+          <li>La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.</li>
         </ul>
       </td>
     </tr>
