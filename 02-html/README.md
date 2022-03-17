@@ -1,6 +1,6 @@
 <h1 align="center"> Introduction to HTML 📖 </h1>
 
-You can follow this practice in my [Github repository](https://github.com/enrique-mendoza/launchX-FrontEnd-Mission-01-HTML). 👀
+You can follow this practice in my [Github repository](https://github.com/enrique-mendoza/launchX-FrontEnd-Mission-02-HTML). 👀
 
 ## Credits:
 

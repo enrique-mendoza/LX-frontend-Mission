@@ -1,6 +1,6 @@
 <h1 align="center"> Introduction to CSS 📖 </h1>
 
-You can follow this practice in my [Github repository](https://github.com/enrique-mendoza/launchX-FrontEnd-Mission-02-CSS). 👀
+You can follow this practice in my [Github repository](https://github.com/enrique-mendoza/launchX-FrontEnd-Mission-03-CSS). 👀
 
 ## Credits:
 
